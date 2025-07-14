@@ -18,37 +18,13 @@ WPRAG stands for **WordPress Retrieval Augmented Generation**. It's not just a t
 
 *   **Personalized User Experiences**: Deliver dynamic and tailored content based on user interactions and preferences.
 
-## The Power Behind WPRAG: Our Robust Technology Stack
-
-WPRAG is built on a modern, scalable microservices architecture designed for performance and future growth. Our cutting-edge technology stack includes:
-
-*   **Laravel**: For a powerful and flexible backend framework.
-
-*   **FastAPI**: Powering our high-performance AI services.
-
-*   **Marqo**: Our vector search engine for lightning-fast semantic retrieval.
-
-*   **Ollama**: Facilitating local and efficient large language model (LLM) operations.
-
-*   **Kubernetes**: Ensuring scalable, resilient, and easily deployable infrastructure.
-
-*   **And more!** We embrace the best-in-class tools to deliver a truly revolutionary product.
-
-## Join the Revolution: A SaaS for the WordPress Ecosystem
+## Join the Revolution: Easy Entry Semantic Search for the WordPress Ecosystem
 
 WPRAG is delivered as a powerful Software as a Service (SaaS), bringing cutting-edge AI capabilities directly to your WordPress sites without the complexities of self-hosting. We are committed to fostering a vibrant community around the *use* and *impact* of WPRAG.
 
 *   **Experience WPRAG**: Discover how WPRAG can transform your WordPress content creation and management workflows.
 *   **Provide Feedback**: Your insights are invaluable! Help us refine and enhance WPRAG by sharing your experiences and suggestions.
 *   **Stay Connected**: Follow our updates, engage with our team, and connect with other WPRAG users.
-
-## Get Started
-
-Ready to experience the future of WordPress?
-
-*   **Visit our comprehensive documentation site**: [code-documentation/index.md](code-documentation/index.md)
-
-*   **Explore our main project repository**: [Link to your main project repo if different from this org page]
 
 ## Advanced System Prompt Techniques: Unleashing AI's Full Potential
 
